@@ -1,0 +1,22 @@
+const HomePage=()=>{
+
+const [te,te]=useState();
+const [te,te]=useState();
+
+function test()
+{
+return(
+<div>
+</div>
+)
+}
+
+return(
+<div>
+<h1 width=250px>name</h1>
+<div><img src="tawd" height=300%/></div>
+<div>discreption</div>
+</div>
+);
+}
+export default HomePage
